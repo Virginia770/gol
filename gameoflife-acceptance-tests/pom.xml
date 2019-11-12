@@ -16,7 +16,7 @@
         <thucydides.version>0.9.268</thucydides.version>
     </properties>
     <dependencies>
-        <dependency>
+           <dependency>
             <groupId>org.easytesting</groupId>
             <artifactId>fest-assert</artifactId>
             <version>1.4</version>
